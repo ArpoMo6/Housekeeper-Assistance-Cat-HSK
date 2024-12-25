@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Nature's Pretty Sweet</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<success>Always</success>
+			<xpath>Defs/ThingDef[defName="HousekeeperCat"]/race/wildBiomes</xpath>
+			<value>
+				<DesertSaltFields>0.075</DesertSaltFields>
+				<Grasslands>0.05</Grasslands>
+				<Oasis>0.075</Oasis>
+				<RedwoodForest>0.1</RedwoodForest>
+				<VolcanicFlow>0.05</VolcanicFlow>
+				<Steppes>0.075</Steppes>
+				<Savanna>0.05</Savanna>
+				<Permafrost>0.075</Permafrost>
+				<TemperateDesert>0.075</TemperateDesert>
+				<Wasteland>0.025</Wasteland>
+			</value>
+		</match>
+	</Operation>
+</Patch>

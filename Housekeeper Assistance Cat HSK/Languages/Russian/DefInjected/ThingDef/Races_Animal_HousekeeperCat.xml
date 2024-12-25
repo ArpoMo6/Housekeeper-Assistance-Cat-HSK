@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HousekeeperCat.label>housekeeper cat</HousekeeperCat.label>
+  <HousekeeperCat.description>Очень умное кошкоподобное существо, созданное для помощи в домашнем хозяйстве.</HousekeeperCat.description>
+  <HousekeeperCat_Leather.label>мех housekeepse cat</HousekeeperCat_Leather.label>
+  <HousekeeperCat_Leather.description>мех housekeepse cat.</HousekeeperCat_Leather.description>
+  <HousekeeperCat_Leather.stuffProps.stuffAdjective>меха housekeepse cat</HousekeeperCat_Leather.stuffProps.stuffAdjective>
+  <HousekeeperCat_Meat.label>мясо housekeeper cat</HousekeeperCat_Meat.label>
+  <HousekeeperCat_Meat.description>мясо housekeeper cat.</HousekeeperCat_Meat.description>
+  <HousekeeperCat_Corpse.label>тело housekeeper cat</HousekeeperCat_Corpse.label>
+  <HousekeeperCat_Corpse.description>тело housekeeper cat.</HousekeeperCat_Corpse.description>
+</LanguageData>

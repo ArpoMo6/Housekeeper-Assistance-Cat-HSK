@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>HousekeeperAssistanceCat</name>
+	<packageId>Oblitus.HousekeeperAssistanceCat</packageId>
+	<author>Edge Crescent, arpomo6</author>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+Unofficial update for HousekeeperAssistanceCat mod by Edge Crescent. While using the same assets, background logic for cleaning tasks is fully reworked. Their ability to reproduce is disabled, so you can only tame or buy them (you can edit the mod's LifeStages.xml to re-enable it).
+
+This mod adds a new kind of animal - Housekeeper Cat. When Obedience is trained, they are able to do cleaning tasks. They are also eligible for hauling training. As a bonus, they can produce small amounts of quality wool.
+
+Unofficial HardCore SK adaptation mod by ArpoMo6 with the addition of color generation (white, black, gray, red and brown).
+
+Неофициальное обновление мода HousekeeperAssistanceCat mod (автор Edge Crescent). Здесь должно быть описание, связанное с переделкой логики уборки, но качественно перевести я это не сумел. Возможность размножения выключена ориг. автором, поэтому котиков можно получить только купив или приручив их (размножение можно включить в папке с модом в файле LifeStages.xml).
+
+Этот мод добавляет новый вид животных – Housekeeper Cat. После обучения преданности, они получают возможность уборки. Они также могут быть обучены переноске (имейте в виду, что переноска имеет более высокий приоритет, чем уборка) и производят небольшое количество качественной шерсти в качестве маленького бонуса.
+
+Неофициальная адаптация модификации под сборку HardCore SK (автор ArpoMo6) с добавлением генерации окраски (белый, чёрный, серый, рыжий и бурый).
+	</description>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>CETeam.CombatExtended</li>
+		<li>skyarkhangel.HSK</li>
+		<li>skyarkhangel.NPS</li>
+	</loadAfter>
+</ModMetaData>
